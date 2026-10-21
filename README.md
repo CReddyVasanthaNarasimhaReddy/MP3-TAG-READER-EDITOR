@@ -7,7 +7,7 @@
 - **Email:** [crvnreddy48@gmail.com](mailto:crvnreddy48@gmail.com)
 - **LinkedIn:** [C Reddy Vasantha Narasimha Reddy](https://www.linkedin.com/in/reddy-vasantha-narasimha-reddy-c-690279352/)
 - **Programming Language:** C
-- **Batch ID:** 26015_128
+
 
 ---
 
